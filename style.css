@@ -1,0 +1,55 @@
+body  {
+    
+    
+}
+
+header {
+    background-color: white;
+    height: auto;
+    width: 2000px;
+    display: inline-block;
+   
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    color: yellow;
+    padding-right: 20px;
+}
+
+ul {
+    color: yellow;
+    position: relative;
+    right: -16in;
+}
+
+.section-1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    background-color: white;
+    padding: 50px;
+    margin-top: 10px; 
+    border: 5px solid blue; 
+}
+
+.section-2 {
+    background-color: chocolate;
+    text-align: center;
+    }
+
+#list2 {
+    text-align: center;
+
+}
+.contactmeborder { 
+    width: 500px;
+    height: 125px;
+    border: 10px solid darkblue;
+    position: relative;
+    left: 625px;
+    border-radius: 40px;
+}
