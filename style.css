@@ -4,9 +4,9 @@ body  {
 }
 
 header {
-    background-color: white;
+    background-color: rgb(247, 74, 74);
     height: auto;
-    width: 2000px;
+    width: 1789px;
     display: inline-block;
    
 }
@@ -26,18 +26,18 @@ ul {
 
 .section-1 {
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(35, 119, 247);
 }
 
 img {
-    background-color: white;
+    background-color: rgb(76, 65, 231);
     padding: 50px;
     margin-top: 10px; 
-    border: 5px solid blue; 
+    border: 5px solid rgb(240, 66, 103); 
 }
 
 .section-2 {
-    background-color: chocolate;
+    background-color: rgb(233, 64, 79);
     text-align: center;
     }
 
@@ -48,7 +48,7 @@ img {
 .contactmeborder { 
     width: 500px;
     height: 125px;
-    border: 10px solid darkblue;
+    border: 10px solid rgb(62, 62, 228);
     position: relative;
     left: 625px;
     border-radius: 40px;
